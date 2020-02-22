@@ -28,7 +28,7 @@ The purpose of this project is to visualise a breast cancer dataset and to imple
 As almost every woman nowadays is affected by breast cancer, whether by constant worrying about the disease or by diagnosis, this project proposes a study on the said topic. It focuses on the exploratory analysis of the Wisconsin Diagnostic Breast Cancer (WDBC) dataset for a better understanding of the relationship between the variables, and on the identification of the machine learning algorithms that are best-suited for the problem at hand.
 
 ## Data
-For this paper, the [Breast Cancer Wisconsin Data Set](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic) is used.
+For this paper, the [Breast Cancer Wisconsin Data Set](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)) is used.
 
 ## Getting Started
 
